@@ -68,10 +68,10 @@ jupyter notebook
 Open the ecommerce-data-analysis.ipynb file and execute the cells to see the analysis.
 
 ### Key Insights
-Customer Demographics: By filtering job titles and language preferences, we can gain insights into the background of customers.
-Purchase Behavior: By analyzing purchase prices and time of purchase (AM/PM), we can understand customer behavior.
-Popular Credit Card Providers: Identifying which credit card providers are most used can help businesses tailor their payment options.
-Top Email Providers: Understanding the most popular email providers can help in marketing and communication strategies.
+1. Customer Demographics: By filtering job titles and language preferences, we can gain insights into the background of customers.
+2. Purchase Behavior: By analyzing purchase prices and time of purchase (AM/PM), we can understand customer behavior.
+3. Popular Credit Card Providers: Identifying which credit card providers are most used can help businesses tailor their payment options.
+4. Top Email Providers: Understanding the most popular email providers can help in marketing and communication strategies.
 
 
 Thank you for visiting my project! If you find this helpful, consider starring the repository and sharing it.
