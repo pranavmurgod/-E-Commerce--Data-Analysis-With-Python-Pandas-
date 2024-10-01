@@ -1,6 +1,5 @@
-# E-Commerce--Data-Analysis-With-Python-Pandas
+# E-Commerce-Data-Analysis-With-Python-Pandas
 
-## E-Commerce Data Analysis Project
 ### Overview
 Welcome to the E-Commerce Data Analysis Project, where I demonstrate my data analysis skills using Python and Pandas. As an aspiring Business Analyst, I created this project to showcase my ability to work with real-world datasets, extract insights, and solve practical business-related questions. This project is designed to highlight my technical expertise and problem-solving skills to recruiters and hiring managers.
 
